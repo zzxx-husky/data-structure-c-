@@ -1,3 +1,3 @@
 # data-structure-cpp
 
-Some data structure written in C++
+Some data structures written in C++
